@@ -10,7 +10,7 @@ Para garantir uma interface leve, responsiva e de alto desempenho, foram utiliza
 * **CSS3**: Estilização avançada, garantindo um layout responsivo e visual profissional.
 * **JavaScript**: Implementação de interatividade e melhoria na experiência do usuário.
 
-## 📄 Visualização do Projeto
+## Visualização do Projeto
 
 Você pode conferir uma captura completa da interface através do link abaixo:
 
